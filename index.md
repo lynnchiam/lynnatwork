@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## I used to be a mad man
 
-You can use the [editor on GitHub](https://github.com/lynnchiam/lynnatwork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+More [Don Draper](https://en.wikipedia.org/wiki/Mad_Men) than Don Juan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I'm now
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+just trying to keep my plants alive
 
 ```markdown
 Syntax highlighted code block
